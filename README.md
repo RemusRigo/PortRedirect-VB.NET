@@ -32,7 +32,9 @@ or .NET Runtime 10 x86 and then just run x86\PortRedirect.exe
 
 ## Statistics
 
-!\[GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/PortRedirect-VBNET/total)
+![status](https://img.shields.io/badge/status-completed-brightgreen)
+<br>
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/PortRedirect-VBNET/total)
 
 
 
