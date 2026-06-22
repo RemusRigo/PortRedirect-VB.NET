@@ -25,7 +25,6 @@ or .NET Runtime 10 x86 and then just run x86\PortRedirect.exe
 * Send data to application by searching window title
 * Log events to file
 * Tested:
-
   * Handheld scanner connected on USB serial port (COM)
 
 
