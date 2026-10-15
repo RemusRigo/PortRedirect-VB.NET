@@ -1,5 +1,0 @@
-* change UI (maybe add multiple interfaces)
-* add option to enable/disable logs
-* check if port is disconnected / pause loop
-* maybe add theme
-* add settings form and check JSON file

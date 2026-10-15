@@ -1,8 +1,8 @@
 ﻿Imports System.IO
 Imports System.IO.Ports
 Imports System.Runtime.InteropServices
-Imports System.Threading
-Imports System.Windows.Forms.VisualStyles.VisualStyleElement.Rebar
+
+Imports PortRedirect.API
 
 Public Class frmPortRedirect
 
